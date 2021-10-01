@@ -1,8 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub 102
 
-You can use the [editor on GitHub](https://github.com/renana/github102-room-5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository publish a website that can be viewed at https://renana.github.io/github102-room-5/.
+
+You can use the [editor on GitHub](https://github.com/renana/github102-recipes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## What now?
+
+### Step 1: Setup your workspace
+
+Fork the repository. If you plan to work on your computer clone the fork to your directory.
+
+### Step 2: Claim an Issue
+
+Head over to the [issues tab](https://github.com/renana/github102-room-5/issues) above and claim an issue. 
+Wait for the issue to be assigned to you. This can be done by one of your team mates approving the assignment in a comment.
+
+### Step 3: Start a pull request
+
+After finding a solution create a pull request and ask your team mates to review it. 
+If approved and all previous steps completed you will be able to merge it to the repository.
+
+## Additional resources
 
 ### Markdown
 
@@ -27,11 +47,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renana/github102-room-5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
